@@ -1,0 +1,6 @@
+If this asset seems short on content, that's because it's a free sample!
+It deliberately only has the walk cycle and jump animation of the character sprite.
+You can use the included sheets and visible frames to test out the system in your game (you may even use it commercially if you wish).
+If you like it, you can purchase the full version to unlock a wide variety of new animations, outfits, and hairstyles.
+
+https://seliel-the-shaper.itch.io/
