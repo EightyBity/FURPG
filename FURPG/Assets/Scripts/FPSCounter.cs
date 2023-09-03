@@ -26,7 +26,7 @@ public class FPSCounter : MonoBehaviour
             }
             _frameRateSamples = new int[_averageFromAmount];
         }
-        Application.targetFrameRate = 2;
+        Application.targetFrameRate = -1;
     }
     void Update()
     {
